@@ -1,0 +1,10 @@
+<div class="service-container text-center">
+  <div *ngIf="isDataLoaded">
+    <div class="logo wow fadeIn">
+      <!-- <img [src]="selectedItem.image" alt="logo" /> -->
+      <div><i class="fa fa-{{selectedItem.icon}}" aria-hidden="true"></i></div>
+    </div>
+    <div class="service-name wow fadeIn">{{selectedItem.name}}</div>
+    <div class="service-desc wow fadeIn">{{selectedItem.description}}</div>
+  </div>
+</div>

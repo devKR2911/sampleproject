@@ -1,0 +1,30 @@
+<script>
+    $(document).ready(function(){
+        $("#btnEnter").delay(4000).fadeIn();
+    });
+</script>
+<div class="video" *ngIf="tileData">
+  <div class="video-container">
+    <video class="video-fluid video-intro" PlaysInline playsinline autoplay [muted]="true" loop controls
+      id="dashboard-video-{{tileData.id}}">
+      <source src="" type="video/webm" />
+      <source [src]="tileData.path + '?x=10'" type="video/mp4" />
+    </video>
+  </div>
+  <div *ngIf="!tileData.isAuth"> 
+  <div class="overlay wow fadeIn" *ngIf="!tileData.imgUrl">
+    <div class="title">{{tileData.name}}</div>
+    <div class="description">{{tileData.description}}</div>
+  </div>
+  <div class="overlay-image wow fadeIn" *ngIf="tileData.imgUrl">
+    <img [src]="tileData.imgUrl" alt="">
+  </div>
+  </div>
+  <div *ngIf="tileData.isAuth"> 
+    <div class="overlay wow fadeIn" >
+      <div class="text-center" > 
+          <button id="btnEnter" type="button" class="btn btn-danger btn-lg" (click)="goToHome()" >ENTER</button>
+      </div>
+    </div>
+    </div>
+</div>

@@ -1,0 +1,179 @@
+[{
+    "id": 0,
+    "name": "Mobile App Development",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "icon": "mobile",
+    "options": [{
+        "id": 0,
+        "name": "iPhone App Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business."
+      },
+
+      {
+        "id": 2,
+        "name": "Android App Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Web And CMS Development",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "icon": "globe",
+    "options": [{
+        "id": 0,
+        "name": "PHP",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 1,
+        "name": "CakePHP",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 4,
+        "name": "WordPress",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 5,
+        "name": "Drupal",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 7,
+        "name": ".Net Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "E-Commerce",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "icon": "shopping-cart",
+    "options": [{
+        "id": 0,
+        "name": "Magento",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 5,
+        "name": "Big Commerce",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mobile Game Development",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "icon": "gamepad",
+    "options": [{
+        "id": 0,
+        "name": "Virtual Reality Game Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 1,
+        "name": "Mobile/Tabs Game Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 6,
+        "name": "Unity 3D Game Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      }
+    ]
+  },
+
+
+  {
+    "id": 4,
+    "name": "IT Services",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "icon": "internet-explorer",
+    "options": [{
+        "id": 0,
+        "name": "Website Designing",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 1,
+        "name": "Logo Designing",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+
+        "id": 2,
+        "name": "Java Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 3,
+        "name": "C# Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 8,
+        "name": "Internet Marketing",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "TV App Development",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "icon": "television",
+    "options": [{
+        "id": 0,
+        "name": "Amazon Fire TV App Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 1,
+        "name": "Apple TV App Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      },
+      {
+        "id": 2,
+        "name": "Chromecast App Development",
+        "image": "assets/images/services/apple.png",
+        "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+      }
+     ]
+  },
+  {
+    "id": 6,
+    "name": "Blockchain Technology",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "icon": "link",
+    "options": [{
+      "id": 0,
+      "name": "Blockchain Development",
+      "image": "assets/images/services/apple.png",
+      "description": "iPhone is very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business. As around the world, there are millions of iPhone users who use their smartphone to manage their daily needs."
+    }]
+  }
+]

@@ -1,0 +1,20 @@
+<div class="service-container">
+  <div class="service-content" *ngIf="isDataLoaded">
+    <!-- <app-megamenu [menuList]="menuItems"></app-megamenu> -->
+    <h2>Our {{pageName}}</h2>
+    <div class="row">
+      <div *ngFor="let item of menuItems" class="col-lg-4 col-md-6 col-sm-12 menu-item wow fadeIn">
+        <div class="menu-item-inner-1" (click)="goTo('service/' + item.id)">
+          <div class="menu-item-inner-2">
+            <div *ngIf="!isTechnology"><i class="fa fa-{{item.icon}}" aria-hidden="true"></i></div>
+            <div *ngIf="isTechnology"><img class="technology-image" [src]="item?.image" /></div>
+            <div>{{item.name}}</div>
+            <div *ngIf="isTechnology">
+              <p>{{item.description}}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

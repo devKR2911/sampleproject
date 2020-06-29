@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "THE DIGITAL WORLD",
+    "alias": "YOUR DREAM",
+    "path": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "imgUrl": "",
+    "description": "YOUR DREAM",
+    "link": "/home",
+    "isAuth": false
+},
+{
+    "id": 2,
+    "name": "Launch Your Startup Now!",
+    "alias": "START UP",
+    "path": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "imgUrl": "",
+    "description": "we are helping clients communicate and solve problems through creative  solutions.",
+    "link": "/startup",
+    "isAuth": false
+},
+{
+    "id": 3,
+    "name": "We Make Your Ideas Come To Life",
+    "alias": "WE",
+    "path": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "imgUrl": "",
+    "description": "let’s discuss yours and let us help you make it a reality.",
+    "link": "/we",
+    "isAuth": false
+},
+{
+    "id": 4,
+    "name": "Launch Your Startup Now!",
+    "alias": "ABOUT US",
+    "path": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "imgUrl": "",
+    "description": "we are helping clients communicate and solve problems through creative  solutions.",
+    "link": "/aboutus",
+    "isAuth": false
+},
+{
+    "id": 5,
+    "name": "Launch Your Startup Now!",
+    "alias": "PORTFOLIO",
+    "path": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "imgUrl": "../assets/images/logo-work.png",
+    "description": "",
+    "link": "/portfolio",
+    "isAuth": false
+},
+{
+    "id": 6,
+    "name": "",
+    "alias": "",
+    "path": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "imgUrl": "",
+    "description": "",
+    "link": "/auth",
+    "isAuth": true
+}
+]

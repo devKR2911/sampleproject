@@ -1,0 +1,5 @@
+<div class="videos-conainer" *ngIf="isDataLoaded">
+  <div class="video-block" [id]="video.id">
+    <app-viewtile [tileData]="video"></app-viewtile>
+  </div>
+</div>

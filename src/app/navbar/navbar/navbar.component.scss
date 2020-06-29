@@ -1,0 +1,32 @@
+.menu-container {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.7);
+
+  ul.menu-items {
+    list-style: none;
+
+    li.menu-item {
+      margin: 8px 20px;
+    }
+  }
+
+  a {
+    color: #FFF;
+    text-transform: uppercase;
+    text-decoration: none !important;
+    cursor: pointer;
+    text-shadow: 2px 2px 3px #000000;
+  }
+  .last-item {
+    .mega-menu-container {
+      width: 100%;
+      position: absolute;
+      left: 0;
+      background: rgba(0, 0, 0, 0.49);
+      max-height: 100vh;
+      overflow: auto;
+    }
+  }
+}

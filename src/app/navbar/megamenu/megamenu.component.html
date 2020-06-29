@@ -1,0 +1,8 @@
+<div class="row">
+  <div class="main-menu col-lg-4 col-md-6 col-sm-6" *ngFor="let menu of menuList">
+    <span class="main-menu-content"> {{menu.name}}</span>
+    <div class="sub-menu" (click)="goToService(menu, submenu)" *ngFor="let submenu of menu.options">
+      <span class="submenu-content">{{submenu.name}}</span>
+    </div>
+  </div>
+</div>

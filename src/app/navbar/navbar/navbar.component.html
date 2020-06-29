@@ -1,0 +1,30 @@
+<div class="menu-container" *ngIf="isDataLoaded">
+  <nav class="navbar navbar-expand-lg">
+    <a class="navbar-brand" href="#">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="fa fa-align-justify"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav menu-items">
+        <li class="nav-item menu-item" *ngFor="let menu of items">
+          <a [routerLink]=[menu.link]>{{menu.alias}}</a>
+        </li>
+        <li class="nav-item menu-item">
+          <a routerLink="/contactus">CONTACT Us</a>
+        </li>
+        <!-- <li class="nav-item menu-item last-item" (click)="goTo('services')">
+          <a>
+            Services
+          </a>
+        </li>
+        <li class="nav-item menu-item last-item" (click)="goTo('services/technologies')">
+          <a>
+            Technologies
+          </a>
+        </li> -->
+      </ul>
+    </div>
+  </nav>
+</div>

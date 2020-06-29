@@ -1,0 +1,63 @@
+[{
+    "id": 0,
+    "name": "JavaScript",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/javascript.svg"
+  },
+  {
+    "id": 1,
+    "name": "Python",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/python.svg"
+  },
+  {
+    "id": 2,
+    "name": "Java",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/java.svg"
+  },
+  {
+    "id": 3,
+    "name": "C/C++",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/C.svg"
+  },
+
+
+  {
+    "id": 4,
+    "name": "PHP",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/php.svg"
+  },
+  {
+    "id": 5,
+    "name": "Swift",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/swift.svg"
+  },
+  {
+    "id": 6,
+    "name": "C#",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/c_sharp.png"
+  },
+  {
+    "id": 7,
+    "name": "Ruby",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/ruby.svg"
+  },
+  {
+    "id": 8,
+    "name": "Angular",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/angular.svg"
+  },
+  {
+    "id": 9,
+    "name": "My SQL",
+    "description": "iPhones & iPada are very popular nowadays even though there are other smartphones launched by competitors in the market that tries to beat the iPhone through low pricing and different functionalities. If you are thinking about iPhone application then it will be great to have one for your business.",
+    "image": "assets/images/technologies/sql.svg"
+  }
+]

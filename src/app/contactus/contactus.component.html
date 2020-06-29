@@ -1,0 +1,39 @@
+<div class="video">
+  <div class="video-container">
+    <video class="video-fluid video-intro" PlaysInline playsinline autoplay [muted]="true" loop controls
+      id="dashboard-video-6">
+      <source src="" type="video/webm" />
+      <source [src]="mediaData.path + '?x=10'" type="video/mp4" />
+    </video>
+  </div>
+  <div class="overlay wow fadeIn">
+    <div class="title">Get in Touch</div>
+    <div class="description">We are always looking for new exciting projects and collaborations. Feel free to contact
+      us.</div>
+    <div class="contact-deatails d-md-flex">
+      <div class="contact-info  d-md-flex">
+        <div class="contact-section">
+          <div class="label">OFFICE</div>
+          <div class="value">My office location</div>
+          <div class="value">My Building Address</div>
+        </div>
+        <div class="contact-section">
+          <div class="label">CONTACT</div>
+          <!-- <div class="value">+971522799996</div> -->
+          <div class="value">
+            <a href="https://api.whatsapp.com/send?phone=8891197611">
+              Click to connect <img src="../../assets/images/WhatsApp.svg" class="whatsapp" alt="" /> +918891197611</a>
+          </div>
+          <div class="value"><a href="mailto:mail@domain.com" target="_top">mail@domain.com</a> </div>
+        </div>
+      </div>
+      <div class="contact-form d-none d-md-flex">
+        <input class="form-control" placeholder="Name" for="name" type="text" />
+        <input class="form-control" placeholder="Email" for="email" type="text" />
+        <input class="form-control" placeholder="Subject" for="subject" type="text" />
+        <input class="form-control" placeholder="Message" for="message" type="text" />
+        <button class="primary-btn">Send</button>
+      </div>
+    </div>
+  </div>
+</div>

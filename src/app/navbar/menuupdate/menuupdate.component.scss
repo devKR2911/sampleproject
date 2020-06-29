@@ -1,0 +1,15 @@
+.update-container {
+    width: 100%;
+    min-height: 100vh;
+    overflow: auto;
+    display: flex;
+    color: #FFF;
+    font-size: 24px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 65px;
+    background-image: url('../../../assets/images/Busy-People.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
